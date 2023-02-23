@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 118512b8783e9bb49a1a73fa9b52405f, type: 3}
+  m_Name: messorbabarus 1
+  m_EditorClassIdentifier: 
+  colonyName: Messor barbarus
+  colonyTime: 222
+  colonyImage: {fileID: 21300000, guid: bd66a57ebb81ffc4680453260e04f34d, type: 3}
+  isUnlocked: 0
+  colonyDescription: 
